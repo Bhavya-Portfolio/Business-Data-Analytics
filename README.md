@@ -1,4 +1,4 @@
-# Business Analytics Portfolio – [Bhavya Shah]
+# Business/Data Analytics – [Bhavya Shah]
 
 ## About Me
 I am an experienced Business Analyst with experience in requirements gathering, managing stakeholders and technical teams, identifying, analyzing, and implementing changes to improve organizational efficiency, and currently building strong skills in Data Analytics, Power BI, and Business Intelligence.  
